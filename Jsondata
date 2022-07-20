@@ -1,0 +1,131 @@
+[
+    {
+      "id" : 0,
+      "content" : "Three runners compete in a race. The proabilities that the three runners finish the race in under 10 seconds are 1/4, 1/6 and 2/5, respectively.",
+      "question" : "What is the probability that at least one of the three runners will finish the race in under 10 seconds?" ,
+      "correctIndex": 2,
+      "answers": [
+          "3/4",
+          "5/8",
+          "0.47",
+          "0.96"
+      ]
+    },
+    
+    {
+      "id": 1,
+      "content" : "Fifty tagged fish were released into a dam known to contain fish. Later, a sample of 30 fish was netted from this dam, of which eight were found to be tagged.",
+      "question" : "Estimate the total number of fish in the dam just prior to the sample of 30 being removed." ,
+      "correctIndex": 3,
+      "answers": [
+          "245",
+          "121",
+          "188",
+          "57"
+      ]
+    },
+    
+    {
+     "id" : 2,
+      "content" : "A batch of 800 items is examined. The probability that an item from this batch is defective is 0.02.",
+      "question" : "How many items from this batch are defective?" ,
+      "correctIndex": 1,
+      "answers": [
+          "16",
+          "24",
+          "126",
+          "96"
+      ]
+    },
+    
+    {
+        "id" : 3,
+      "content" : "A coin is tossed three times..",
+      "question" : "What is the probability that 'heads' appears every time?" ,
+      "correctIndex": 1,
+      "answers": [
+          "1/8",
+          "0.23",
+          "12/67",
+          "0.12"
+      ]
+    },
+
+    {
+        "id" : 4,
+      "content" : "Jayne has a bag containing 5 strawberry lollies and 3 honey lollies while Laura has another bag containing 4 strawberry lollies and 5 lemon lollies. Each of these two girls is to select at random 3 lollies from their own bag, without replacement.",
+      "question" : "What is the probability that only one of the two girls will select at least one strawberry lolly from her bag?" ,
+      "correctIndex": 4,
+      "answers": [
+          "27/88",
+          "0.32",
+          "0.56",
+          "13/98"
+      ]
+    },
+
+    {
+        "id" : 5,
+      "content" : "In a class of 30 girls, 13 are dancers and 23 are gymnasts. If 7 girls do both dance and gymnastics.",
+      "question" : "What is the probability that a girl chosen at random does neither dance nor gymnastics?" ,
+      "correctIndex": 3,
+      "answers": [
+          "74/121",
+          "0.27",
+          "1/30",
+          "0.37"
+      ]
+    },
+
+    {
+        "id" : 6,
+      "content" : "Students studying at least one of the languages, French and Japanese attend a meeting. Of the 28 students present, 18 study French and 22 study Japanese.",
+      "question" : "What is the probability that a randomly chosen student studies French?" ,
+      "correctIndex": 1,
+      "answers": [
+          "9/14",
+          "3/4",
+          "0.66",
+          "2/10"
+      ]
+    },
+
+    {
+        "id" : 7,
+      "content" : "A packet of lollies contains 5 red lollies and 14 green lollies. Two lollies are selected at random without replacement.",
+      "question" : "What is the probability that the two lollies are of different colours?" ,
+      "correctIndex": 4,
+      "answers": [
+          "27/72",
+          "0.43",
+          "0.24",
+          "70/171"
+      ]
+    },
+
+    {
+        "id" : 8,
+      "content" : "Kim has three red shirts and two yellow shirts. On each of the three days, Monday, Tuesday and Wednesday, she selects one shirt at random to wear. Kim wears each shirt that she selects only once.",
+      "question" : "What is the probability that Kim does not wear a shirt of the same colour on consecutive days?" ,
+      "correctIndex": 2,
+      "answers": [
+          "0.4",
+          "3/10",
+          "0.33",
+          "6/13"
+      ]
+    },
+    {
+        "id" : 9,
+      "content" : "A bag contains one green, four blue and six red marbles.",
+      "question" : "What is the probability that at least one of the marbles is red or green?" ,
+      "correctIndex": 4,
+      "answers": [
+          "0.4",
+          "1/4",
+          "0.48",
+          "105/121"
+      ]
+    }
+]
+
